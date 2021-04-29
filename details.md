@@ -1,1 +1,1 @@
-Conky configuration from Peux OS Xfce 21.01. The repository can be found at 
+Conky configuration from Peux OS Xfce 21.01. You'll have to correct the path in the autostart/wm-configuration. The repository can be found at https://github.com/peux-os-sic/Peux-Conky-1.
